@@ -2,7 +2,8 @@
 - 👀 I am mainly interested in databases and desktop applications,Privately, my interests are speedway and football. In my spare time I like to go out with friends and eat well 
 - 🌱 I’m currently learning C#,C++,Lua
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: e-mail:mattdablju@interia.pl
+- 📫 How to reach me: e-mail:mateusz.wojcik1@o365.us.edu.pl
+
 
 <!---
 MWojcik2211/MWojcik2211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
